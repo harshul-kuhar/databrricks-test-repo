@@ -1,0 +1,6 @@
+# Databricks notebook source
+master_string = 'THIS IS A STRING CREATED ON THE MASTER BRANCH. WHEN I CREATE A BRANCH I SHOULD BE ABLE TO SEE THIS CELL'
+
+# COMMAND ----------
+
+
